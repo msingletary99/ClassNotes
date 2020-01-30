@@ -63,7 +63,7 @@ double: Double precision up to 15 decimal points
     int month, days;
     month=1;
     days=31;
-    System.out.println("Month "+month+" has "+days+" days!");
+    System.out.println("Month  "+month+" has "+days+" days!");
     
     
     
